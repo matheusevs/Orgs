@@ -19,3 +19,7 @@ cd Orgs
 npm install
 npm start
 ```
+
+---
+
+<img style="padding-top: 50px;" src="assets/gif.gif">
